@@ -7,6 +7,7 @@ import router from './router'
 import { Button } from 'vant';
 import { Image as VanImage } from 'vant';
 import { Tabbar, TabbarItem } from 'vant';
+import { Form, Field, CellGroup } from 'vant';
 // 2. 引入组件样式
 import 'vant/lib/index.css';
 
@@ -18,5 +19,8 @@ app.use(Button);
 app.use(VanImage);
 app.use(Tabbar);
 app.use(TabbarItem);
+app.use(Form);
+app.use(Field);
+app.use(CellGroup);
 
 app.mount('#app')
