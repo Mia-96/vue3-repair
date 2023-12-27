@@ -18,3 +18,4 @@ export default {
   </van-tabbar>
   <RouterView></RouterView>
 </template>
+<style scoped></style>

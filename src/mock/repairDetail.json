@@ -1,0 +1,13 @@
+[
+    {
+        "repairId":1,
+        "repairStatus":0,
+        "repairType":0,
+        "repairProduct":"显示器",
+        "repairPlace":"杨浦区",
+        "repairName":"林遣都",
+        "repairPhone":13445677,
+        "repairAddress":"中科路1222号",
+        "status":"无法开机"
+    }
+]
